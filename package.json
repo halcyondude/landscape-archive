@@ -118,7 +118,7 @@
     "jsdom": "^13.0.0",
     "json-loader": "^0.5.7",
     "json2csv": "^4.2.1",
-    "lodash-es": "^4.17.11",
+    "lodash-es": "^4.17.21",
     "millify": "^2.0.1",
     "mini-css-extract-plugin": "^0.4.4",
     "mockdate": "^2.0.2",
